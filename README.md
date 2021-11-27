@@ -9,7 +9,7 @@ C++ and CP
 5. https://drive.google.com/drive/folders/1-X32zMspDZgp1uW_3TDw-alWgAAGSr82                 (GFG complete by Ankit)
 6. https://drive.google.com/drive/folders/1N2uqFlvsOW2WH1Y5MZ1HhpCU--A8XoQk                 (Coding ninja DSA)
 7. https://mega.nz/folder/Rshn2a4L#Iz8T-iu1ntlg89Kz1Nqjew                                   (DSA by different academy)
-8. https://drive.google.com/drive/u/0/folders/1zVNmsbWS5F9ikCBFKHs1lruZrEgsBAkG             (Abdul Bari)
+8. https://drive.google.com/drive/u/0/folders/1xkT_6R2GxMDj87T1ecQMFUHTB3UJZ9_D            (Abdul Bari)
 
 
 ---------------------------------------------------
