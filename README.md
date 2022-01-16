@@ -22,3 +22,8 @@ Web Dev
 Cyber Security
 ---------------------------------------------------
 1. https://drive.google.com/drive/u/0/folders/1CdrveRU2iXGabR-nQ-G1o9GC4GusU-92              (udemy)
+
+---------------------------------------------------
+PYTHON
+---------------------------------------------------
+1. https://mega.nz/folder/CxdmCBpB#f8n57pdxjdGu20FL1rt9Xw 
