@@ -1,17 +1,16 @@
-# resources
+# resources UPDATED ON FEB13-2022
 ---------------------------------------------------
 C++ and CP
 ---------------------------------------------------
-1. https://mega.nz/folder/rhNAHQ5C#W9413mb0mdL6hnF6KmhHyA/folder/OwVgjaxL                   (GFG DSA)
-2. https://drive.google.com/drive/u/0/folders/1szZmcER2CjAFbcqCLitTn_4nyv0wxUjn?direction=a (DSA)
-3. https://mega.nz/folder/Rshn2a4L#Iz8T-iu1ntlg89Kz1Nqjew/folder/MoBlmaBb                   (DSA + C++)
 4. https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view                   (Practice questions)
-5. https://drive.google.com/drive/folders/1-X32zMspDZgp1uW_3TDw-alWgAAGSr82                 (GFG complete by Ankit)
-6. https://drive.google.com/drive/folders/1N2uqFlvsOW2WH1Y5MZ1HhpCU--A8XoQk                 (Coding ninja DSA)
-7. https://mega.nz/folder/Rshn2a4L#Iz8T-iu1ntlg89Kz1Nqjew                                   (DSA by different academy)
 8. https://drive.google.com/drive/u/0/folders/1xkT_6R2GxMDj87T1ecQMFUHTB3UJZ9_D            (Abdul Bari)
 
 
+
+---------------------------------------------------
+FLUTTER
+---------------------------------------------------
+1. https://mega.nz/folder/3WhSkBjJ#YSDBnDegckd9-xSQ04W0qA
 ---------------------------------------------------
 Web Dev
 ---------------------------------------------------
